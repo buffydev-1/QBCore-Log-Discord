@@ -26,7 +26,7 @@ This script provides advanced logging functionality for FiveM servers running on
 3. **Start the resource**:
    - Add the following line to your `server.cfg`:
      ```
-     start custom_log_resource
+     start qb-logs
      ```
 
 4. **Optional - Modify Config**:
